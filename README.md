@@ -12,7 +12,7 @@
 - 📫 How to reach me: You can reach me on my Discord: MyRoWARE#1111
 - ⚡ Fun fact: I like milk
 
-### Spotify | Currently Playing 🎧
+### Currently Playing 🎧
 
 [<img src="https://now-playing-myroware.vercel.app/now-playing" alt="MyRoWARE Spotify Playing" width="350" height="70" />](https://open.spotify.com/user/5fc67eddadffb91b3c98ded6)
 
