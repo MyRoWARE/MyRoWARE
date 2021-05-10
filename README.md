@@ -9,8 +9,7 @@
 - 🔭 I’m currently working on my own website https://myroware.eu
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on anything related to web development
-- 📫 How to reach me: You can reach me on my Discord: MyRoWARE#1111
-- ⚡ Fun fact: I like milk
+- 📫 You can reach me on my Discord: MyRoWARE#1111
 
 ### Currently Playing 🎧
 
@@ -23,5 +22,3 @@
 </details>
 
 [website]: https://myroware.eu
-[youtube]: https://www.youtube.com/channel/UC4FR8Zlgs9tGRtnmpuzG-zA
-[instagram]: https://instagram.com/gr4ve_myroware
