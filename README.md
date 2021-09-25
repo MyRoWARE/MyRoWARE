@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on my own website https://myroware.eu
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on anything related to web development
-- 📫 You can reach me on my Discord: MyRoWARE#1111
+- 📫 You can reach me on my Discord: MyRoWARE#0001
 
 ### Currently Playing 🎧
 
