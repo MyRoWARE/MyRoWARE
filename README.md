@@ -6,9 +6,9 @@
 
 [![Website](https://img.shields.io/badge/MYROWARE.EU-WEB-blueviolet)](https://myroware.eu)
 
-- 🔭 I’m currently working on my own website https://myroware.eu
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on anything related to web development
+[![LinkedIn](https://img.shields.io/badge/MYROWARE.EU-WEB-blueviolet)](https://www.linkedin.com/in/myroware/)
+
+- 👯 I’m looking to collaborate on anything related to web or Discord bot development
 - 📫 You can reach me on my Discord: MyRoWARE#0001
 
 ### Currently Playing 🎧
@@ -22,3 +22,4 @@
 </details>
 
 [website]: https://myroware.eu
+[linkedin]: https://www.linkedin.com/in/myroware/
