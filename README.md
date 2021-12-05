@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/MYROWARE.EU-WEB-blueviolet)](https://myroware.eu)
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blueviolet)](https://www.linkedin.com/in/myroware/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-WEB-blueviolet)](https://www.linkedin.com/in/myroware/)
 
 - 👯 I’m looking to collaborate on anything related to web or Discord bot development
 - 📫 You can reach me on my Discord: MyRoWARE#0001
