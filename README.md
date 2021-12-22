@@ -4,9 +4,9 @@
 **MyRoWARE/MyRoWARE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 👀 I’m interested in Web & Discord bot Development
-- 🌱 I’m currently learning React****
-- 💞️ I’m looking to collaborate on anything related to Web or Discord bot development
+- 👀 I’m interested in web development & cyber security
+- 🌱 I’m currently learning learning more about cyber security and programming
+- 💞️ I’m looking to collaborate on anything related to web development
 - 📫 You can reach me on my Discord: MyRoWARE#0001
 
 ### Currently Playing 🎧
