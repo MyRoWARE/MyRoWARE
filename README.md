@@ -5,9 +5,8 @@
 -->
 
 - 👀 I’m interested in web development & cyber security
-- 🌱 I’m currently learning learning more about cyber security and programming
 - 💞️ I’m looking to collaborate on anything related to web development
-- 📫 You can reach me on my Discord: MyRoWARE#0001
+- 📫 You can reach me on my Discord: MyRoWARE#8888
 
 ### Currently Playing 🎧
 
